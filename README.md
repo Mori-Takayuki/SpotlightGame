@@ -13,7 +13,7 @@
 
 # 操作方法:
 1. Zipファイルをダウンロードして、SpotlightGame.toeを開いてください。
-2. ZigSimアプリをサイト(下記リンク)からダウンロードしてください。
+2. ZigSimアプリをサイト(右リンク)からダウンロードしてください。
   https://zig-project.com/
 3. toeファイル内のOSC In CHOP(OSCin1)のLocal Addressパラメータに使用しているネットワークのIPアドレスを入れ、ZigSimアプリのSettingsメニューのIP ADDRESSの数値に同じ値を入れてください。
 4. toeファイル内のOSC In CHOP(OSCin1)のNetwork Portパラメータを任意で入力し、ZigSimアプリのSettingsメニューPORT NUMBERの数値に同じ値を入れてください。
